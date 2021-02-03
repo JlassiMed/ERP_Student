@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ERP_Student", "ERP_Student\ERP_Student.csproj", "{50231B86-AA3D-43B2-AFA3-C2369B41D9AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50231B86-AA3D-43B2-AFA3-C2369B41D9AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50231B86-AA3D-43B2-AFA3-C2369B41D9AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50231B86-AA3D-43B2-AFA3-C2369B41D9AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50231B86-AA3D-43B2-AFA3-C2369B41D9AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E14F6D4E-3742-4587-A5C3-EC5028F24B7B}
+	EndGlobalSection
+EndGlobal

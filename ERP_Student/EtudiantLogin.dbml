@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ERP_Teacher" Class="EtudiantLoginDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MEDJL47\SQLEXPRESS;Initial Catalog=ERP_Teacher;Integrated Security=True" SettingsObjectName="ERP_Student.Properties.Settings" SettingsPropertyName="ERP_TeacherConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.etudiant" Member="etudiants">
+    <Type Name="etudiant">
+      <Column Name="cin" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nom" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="prenom" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="mots_de_passe" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="code_a_bar" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="mail" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="photo" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="id_classe" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="NiveauEtud" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Année" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,144 @@
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Properties.Resources.resources
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ERP_Student\ERP_Student\bin\Debug\ERP_Student.exe.config
+C:\Users\user\source\repos\ERP_Student\ERP_Student\bin\Debug\ERP_Student.exe
+C:\Users\user\source\repos\ERP_Student\ERP_Student\bin\Debug\ERP_Student.pdb
+C:\Users\user\source\repos\ERP_Student\ERP_Student\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\user\source\repos\ERP_Student\ERP_Student\bin\Debug\MetroFramework.dll
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Student.exe
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Student.pdb
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Accueil_Etudiant.resources
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Inscription_Etudiant.resources
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Module.resources
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\etud.Remise.resources
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\etud.Form3.resources
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Informations_pers.resources
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Supports.resources
+C:\Users\user\source\repos\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.login.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\bin\Debug\ERP_Student.exe.config
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\bin\Debug\ERP_Student.exe
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\bin\Debug\ERP_Student.pdb
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Accueil_Etudiant.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Informations_pers.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.login.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Module.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Stats.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\etud.Form3.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\etud.Remise.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Inscription_Etudiant.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Properties.Resources.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Supports.resources
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Student.exe
+C:\Users\Mohamed\Desktop\ERP_Student\ERP_Student\obj\Debug\ERP_Student.pdb
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ERP_Student.exe.config
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ERP_Student.exe
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ERP_Student.pdb
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Accueil_Etudiant.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Informations_pers.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.login.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Module.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Stats.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\etud.Form3.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\etud.Remise.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Inscription_Etudiant.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Properties.Resources.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Enseignant.Supports.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csproj.GenerateResource.cache
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.exe
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.pdb
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x64\concrt140.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x64\cvextern.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x64\msvcp140.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x64\opencv_ffmpeg341_64.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x64\vcruntime140.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x86\concrt140.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x86\cvextern.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x86\msvcp140.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x86\opencv_ffmpeg341.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\x86\vcruntime140.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\Emgu.CV.World.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\Nemiro.OAuth.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\Nemiro.OAuth.LoginForms.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ZedGraph.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zxing.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zxing.presentation.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\Emgu.CV.World.xml
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\Nemiro.OAuth.xml
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\Nemiro.OAuth.LoginForms.xml
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ZedGraph.xml
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zxing.pdb
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zxing.xml
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zxing.presentation.pdb
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zxing.presentation.xml
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ar\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\az\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\be\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\bg\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\cs\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\da\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\de\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\el\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\es\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\et\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\fi\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\fr\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ga\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\he\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\hi\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\hr\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\hu\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\hy\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\is\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\it\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ja\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\kk\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ko\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\lt\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\lv\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\no\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\pl\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\pt\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ro\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ru\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\sk\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\sl\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\sq\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\sr\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\sv\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\tg\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\tr\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\uk\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\uz\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\vi\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zh\Nemiro.OAuth.LoginForms.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\TouchlessLib.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\WebCamLib.dll
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.QrScanner.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.FacialRecog.resources
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\login.resx
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\login.cs
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\bin\Debug\login.designer.cs
+C:\Users\Mohamed\Desktop\7ama\9raya\projet c#\ERP_Student\ERP_Student\obj\Debug\ERP_Student.Form1.resources

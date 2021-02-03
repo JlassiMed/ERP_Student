@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\bin\Debug\ERP_Enseignant.exe.config
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\bin\Debug\ERP_Enseignant.exe
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\bin\Debug\ERP_Enseignant.pdb
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\bin\Debug\MetroFramework.dll
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.Properties.Resources.resources
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.exe
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.pdb
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.Accueil_Enseignant.resources
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.Accueil_Etudiant.resources
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.Inscription_Enseignant.resources
+C:\Users\user\source\repos\ERP_Enseignant\ERP_Enseignant\obj\Debug\ERP_Enseignant.Inscription_Etudiant.resources
